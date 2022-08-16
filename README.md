@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosVMPE
 - 👀 I’m interested in Front-End technologies
-- 🌱 I’m currently learning Svelte and React
+- 🌱 I’m currently learning React and Nextjs
 - 💞️ I’m looking to collaborate on my projects from any part of the world
 - 📫 How to reach me on https://carlosvmpe.github.io/
 
